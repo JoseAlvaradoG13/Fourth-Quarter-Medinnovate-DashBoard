@@ -27,5 +27,6 @@ Question to answer on the Dashboard
 									
 Notes			
 
-All the data and company names in this report are fictitious. The purpose of this project is to demonstrate the type of work I performed in one of my previous jobs.																
+All the data and company names in this report are fictitious. The purpose of this project is to demonstrate the type of work I performed in one of my previous jobs.
+
 In this fictional report, the data is presented to the client on January 5, 2025. Products with this date listed in the "Release Date" column have not yet been sent to the customer.															
